@@ -26,7 +26,7 @@ export default App;
 
 // git init
 // git add .
-// git commit - m "Initial commit"
+// git commit -m "Initial commit"
 // git remote add origin https://github.com/LouisPierre-Andre/netlify2.git
 // git branch - M main
 // git push origin main
@@ -35,11 +35,11 @@ export default App;
 
 
 // git add .
-// git commit - m "Initial commit"
+// git commit -m "Initial commit"
 // git push origin main
 
 
 // git add public / admin / index.html public / admin / config.yml
-// git commit - m "Add Netlify CMS configuration"
+// git commit -m "Add Netlify CMS configuration"
 // git push origin main
 
